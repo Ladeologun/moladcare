@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "81542543753",
+    "project_id": "packages-init",
+    "storage_bucket": "packages-init.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81542543753:android:26bf9cade13d215ca48958",
+        "android_client_info": {
+          "package_name": "com.moladcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81542543753-3i37npc2ha4btsohkut55gv8ls8ofdal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moladcare",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "81542543753-jst7ns6usbon5r46s9qsomj3aj6a1oov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EIkX2SP8fLVR0yrulpEmTA4YBz0MRgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81542543753-jst7ns6usbon5r46s9qsomj3aj6a1oov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81542543753-irr2v9vg0lrohbfpd7k1iqcb9e6tohns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNmodules"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81542543753:android:2f88ace11c8fc857a48958",
+        "android_client_info": {
+          "package_name": "com.rnmodules"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81542543753-jst7ns6usbon5r46s9qsomj3aj6a1oov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EIkX2SP8fLVR0yrulpEmTA4YBz0MRgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81542543753-jst7ns6usbon5r46s9qsomj3aj6a1oov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81542543753-irr2v9vg0lrohbfpd7k1iqcb9e6tohns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNmodules"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
